@@ -31,6 +31,12 @@ nav {
     flex-grow: 1;
 }
 
+nav span {
+  padding: 20, 15, 10, 15;
+  text-decoration: underline;
+  padding-right: 20px;
+}
+
 .container {
     padding-top: 69px;
     opacity: 0.9;
