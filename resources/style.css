@@ -5,6 +5,10 @@
   font-size: 22px;
 }
 
+body {
+  background-color: black;
+}
+
 header {
     width: 100%;
     position: fixed;
@@ -15,7 +19,6 @@ header {
     font-size: 22px;
     text-align: center;
     background-color: black;
-
 }
 
 header img {
