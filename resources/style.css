@@ -1,7 +1,6 @@
 * {
   font-family: Helvetica;
   color: seashell;
-  background-color: black;
   opacity: 0.9;
   font-size: 22px;
 }
@@ -15,6 +14,8 @@ header {
     align-items: center;
     font-size: 22px;
     text-align: center;
+    background-color: black;
+
 }
 
 header img {
@@ -96,7 +97,7 @@ h2, h3, h4, h5 {
     padding: 10px;
     margin: 5px 20px;
     background-color: black;
-    flex-basis: 280px;
+    flex-basis: 250px;
     display: flex;
     flex-direction: column;
     justify-content: center;
