@@ -3,7 +3,6 @@
   color: seashell;
   background-color: black;
   opacity: 0.9;
-  text-align: center;
   font-size: 22px;
 }
 
@@ -15,6 +14,7 @@ header {
     border-bottom: 1px solid seashell;
     align-items: center;
     font-size: 22px;
+    text-align: center;
 }
 
 header img {
@@ -54,9 +54,10 @@ nav {
     width: 100%;
 }
 
-h2, h3, h4 {
+h2, h3, h4, h5 {
     margin: 0;
     padding: 10px;
+    text-align: center;
 }
 
   #store {
@@ -99,6 +100,7 @@ h2, h3, h4 {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align: center;
 }
 
 .flex-container.locations {
