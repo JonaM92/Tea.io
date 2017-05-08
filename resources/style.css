@@ -2,7 +2,6 @@
   font-family: Helvetica;
   color: seashell;
   opacity: 0.9;
-  font-size: 22px;
 }
 
 body {
@@ -64,6 +63,10 @@ nav span {
     width: 100%;
 }
 
+h4 {
+  font-size: 22px;
+}
+
 h2, h3, h4, h5 {
     margin: 0;
     padding: 10px;
@@ -86,6 +89,7 @@ h2, h3, h4, h5 {
     padding: 5px;
     font-weight: bold;
     text-align: center;
+    font-size: 22px;
 }
 
 
@@ -111,6 +115,7 @@ h2, h3, h4, h5 {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    font-size: 22px;
 }
 
 .flex-container.locations {
@@ -119,9 +124,11 @@ h2, h3, h4, h5 {
 
 #contact {
     height: 200px;
+    font-size: 22px;
 }
 
 footer {
     text-align: left;
     padding-left: 20px;
+    font-size: 22px;
 }
